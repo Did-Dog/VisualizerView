@@ -1,5 +1,5 @@
 # VisualizerView
-A view that visualize sound.
+A view that visualize sound by DidDog.
 Can be used in sound recorder.
 
 # Preview 
